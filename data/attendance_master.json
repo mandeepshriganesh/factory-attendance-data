@@ -2,9 +2,9 @@
   "metadata": {
     "application": "Factory Staff Attendance & Payroll System",
     "version": "2.0",
-    "exportedAt": "2026-09-02T17:28:29.816965",
+    "exportedAt": "2026-09-02T05:01:31.741005",
     "totalEmployees": 3,
-    "totalAttendanceRecords": 1,
+    "totalAttendanceRecords": 0,
     "totalAdvances": 0
   },
   "employees": [
@@ -44,24 +44,10 @@
       "monthlySalary": 0,
       "shiftStartTime": "09:00",
       "shiftEndTime": "18:00",
-      "joinDate": "2026-09-01",
+      "joinDate": "2026-09-02",
       "isActive": true
     }
   ],
-  "attendance": [
-    {
-      "id": 1,
-      "employeeId": "Vikash",
-      "date": "2026-09-01",
-      "checkInTime": "10:52",
-      "checkOutTime": "18:00",
-      "status": "PRESENT",
-      "lateMinutes": 112,
-      "earlyCheckoutMinutes": 0,
-      "totalWorkHours": 7.133333333333334,
-      "markedByAdmin": true,
-      "remarks": ""
-    }
-  ],
+  "attendance": [],
   "advances": []
 }
