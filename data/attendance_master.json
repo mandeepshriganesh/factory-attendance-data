@@ -2,7 +2,7 @@
   "metadata": {
     "application": "Factory Staff Attendance & Payroll System",
     "version": "2.0",
-    "exportedAt": "2026-09-02T17:44:08.509081",
+    "exportedAt": "2026-09-02T17:44:38.003634",
     "totalEmployees": 2,
     "totalAttendanceRecords": 0,
     "totalAdvances": 0
@@ -17,7 +17,7 @@
       "phone": "+91 9996782804",
       "monthlySalary": 15000,
       "shiftStartTime": "09:00",
-      "shiftEndTime": "21:00",
+      "shiftEndTime": "19:00",
       "joinDate": "2026-09-02",
       "isActive": true
     },
