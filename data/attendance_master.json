@@ -2,12 +2,38 @@
   "metadata": {
     "application": "Factory Staff Attendance & Payroll System",
     "version": "2.0",
-    "exportedAt": "2026-09-02T17:34:25.661401",
-    "totalEmployees": 1,
+    "exportedAt": "2026-09-02T05:10:35.355055",
+    "totalEmployees": 3,
     "totalAttendanceRecords": 0,
     "totalAdvances": 0
   },
   "employees": [
+    {
+      "id": "Vijay",
+      "name": "Vijay Kumar",
+      "password": "1234",
+      "role": "STAFF",
+      "department": "General Staff",
+      "phone": "#ERROR!",
+      "monthlySalary": 20000,
+      "shiftStartTime": "1899-12-30T03:38:50.000Z",
+      "shiftEndTime": "1899-12-30T15:38:50.000Z",
+      "joinDate": "2026-08-31T18:30:00.000Z",
+      "isActive": true
+    },
+    {
+      "id": "Vikash",
+      "name": "Vikash Yadav",
+      "password": "1234",
+      "role": "STAFF",
+      "department": "General Staff",
+      "phone": "+91 98",
+      "monthlySalary": 15000,
+      "shiftStartTime": "1899-12-30T02:38:50.000Z",
+      "shiftEndTime": "1899-12-30T12:38:50.000Z",
+      "joinDate": "2026-08-31T18:30:00.000Z",
+      "isActive": true
+    },
     {
       "id": "ADMIN",
       "name": "Administrator",
