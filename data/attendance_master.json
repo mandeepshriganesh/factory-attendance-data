@@ -2,8 +2,8 @@
   "metadata": {
     "application": "Factory Staff Attendance & Payroll System",
     "version": "2.0",
-    "exportedAt": "2026-09-02T17:48:07.614409",
-    "totalEmployees": 5,
+    "exportedAt": "2026-09-02T17:48:40.807963",
+    "totalEmployees": 6,
     "totalAttendanceRecords": 0,
     "totalAdvances": 0
   },
@@ -29,6 +29,19 @@
       "department": "General Staff",
       "phone": "+9199760098",
       "monthlySalary": 15000,
+      "shiftStartTime": "09:00",
+      "shiftEndTime": "19:00",
+      "joinDate": "2026-09-02",
+      "isActive": true
+    },
+    {
+      "id": "sonu",
+      "name": "Sonu Saini",
+      "password": "1234",
+      "role": "STAFF",
+      "department": "General Staff",
+      "phone": "+91",
+      "monthlySalary": 12000,
       "shiftStartTime": "09:00",
       "shiftEndTime": "19:00",
       "joinDate": "2026-09-02",
